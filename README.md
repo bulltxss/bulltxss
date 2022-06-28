@@ -1,4 +1,4 @@
-- 👋 Hi meu nome e jose
+- 👋 ola! meu nome e jose
 - 👀 estou interessado em aprender e estudar programação
 - 🌱 eu estou atualmente aprendendo programação 
 - 💞️ eu estou procurando colaborados em desenvolvimento para um novo jogo
